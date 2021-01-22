@@ -9,7 +9,7 @@ export default function CampaignStats() {
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0)">
+      <g clipPath="url(#clip0)">
         <rect width="419" height="214" rx="16" fill="#3F8CFF" />
         <g
           // style="mix-blend-mode:multiply"
@@ -21,16 +21,16 @@ export default function CampaignStats() {
         <path
           d="M403 14L395 22"
           stroke="#11142D"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
         />
         <path
           d="M403 22L395 14"
           stroke="#11142D"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
         />
         <path
           d="M28.3026 38.1293C30.343 38.1431 31.7141 36.7397 31.7095 34.87C31.7141 33.0835 30.44 31.7908 28.7827 31.7908C27.767 31.7908 26.8714 32.2848 26.419 33.0973H26.3544C26.359 31.0799 27.0884 29.8704 28.3995 29.8704C29.212 29.8704 29.7614 30.3459 29.9368 31.0938H31.6218C31.4187 29.5426 30.1861 28.3885 28.3995 28.3885C26.1282 28.3885 24.6925 30.2812 24.6925 33.5405C24.6925 37.0075 26.4883 38.12 28.3026 38.1293ZM28.2933 36.7443C27.2823 36.7443 26.5437 35.9087 26.5391 34.9208C26.5483 33.9283 27.3146 33.0973 28.3164 33.0973C29.3182 33.0973 30.0522 33.8913 30.0476 34.907C30.0522 35.9411 29.2951 36.7443 28.2933 36.7443ZM36.7646 38.18C39.0451 38.1847 40.407 36.3842 40.407 33.282C40.407 30.1982 39.0359 28.4162 36.7646 28.4162C34.4933 28.4162 33.1268 30.1935 33.1222 33.282C33.1222 36.3796 34.484 38.18 36.7646 38.18ZM36.7646 36.7351C35.5874 36.7351 34.8487 35.5533 34.8533 33.282C34.858 31.0291 35.592 29.8427 36.7646 29.8427C37.9418 29.8427 38.6758 31.0291 38.6804 33.282C38.6804 35.5533 37.9464 36.7351 36.7646 36.7351ZM45.4355 38.18C47.716 38.1847 49.0779 36.3842 49.0779 33.282C49.0779 30.1982 47.7068 28.4162 45.4355 28.4162C43.1642 28.4162 41.7977 30.1935 41.7931 33.282C41.7931 36.3796 43.1549 38.18 45.4355 38.18ZM45.4355 36.7351C44.2583 36.7351 43.5196 35.5533 43.5242 33.282C43.5289 31.0291 44.2629 29.8427 45.4355 29.8427C46.6127 29.8427 47.3467 31.0291 47.3513 33.282C47.3513 35.5533 46.6173 36.7351 45.4355 36.7351Z"
@@ -143,9 +143,9 @@ export default function CampaignStats() {
           width="73.3656"
           height="73.3656"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend
             mode="normal"
             in="SourceGraphic"
